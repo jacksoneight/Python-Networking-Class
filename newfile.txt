@@ -1,0 +1,2 @@
+Holy cow, linux is disturbing!
+This is because I have to type 'echo <doublequote>some words<doublequote> >> ./newfile.txt in order to add text to a file.  Wowcat newfile.txt
